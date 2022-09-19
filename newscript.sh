@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 touch 123.txt
 echo $?
 cp 123.txt 345.txt
