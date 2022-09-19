@@ -1,7 +1,4 @@
 
-
-
-
 function myfunction {
 
  echo "Caling service name frm myfunction " $service_name
