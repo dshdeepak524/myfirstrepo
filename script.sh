@@ -5,7 +5,7 @@
 . ./params.sh
 
 echo $abc
-
+echo "this is Harsha"
 
 # this is how we need to add a comment
 echo "Hello World"i
