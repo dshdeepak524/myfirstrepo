@@ -3,6 +3,7 @@ function myfunction {
 
  echo "Caling service name frm myfunction " $service_name
  echo $name
+ echo "harsha"
 
 }
 
